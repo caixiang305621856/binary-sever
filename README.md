@@ -2,12 +2,12 @@
 
 ### 1.创建一个存放二进制私有源仓库
 
-如：https://github.com/su350380433/example_spec_dev
+如：https://github.com/caixiang305621856/open_binary_spec
 
 添加到本地仓库中
 
 ``` shell
-pod repo add example_spec_bin_dev git@github.com:su350380433/example_spec_bin_dev.git
+pod repo add binary_spec git@github.com:caixiang305621856/open_binary_spec.git
 ```
 
 ### 2.安装mongodb
